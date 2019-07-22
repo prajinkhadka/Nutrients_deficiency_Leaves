@@ -1,1 +1,2 @@
-# Nutrients_defeciecny_Leaves
+# Plants Nutrition Deficiency Indication
+Detects nutrition deficiency in plants.
